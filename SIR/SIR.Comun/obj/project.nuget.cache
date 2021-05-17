@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBPtNfikDDmi9u91BvnWdb35+Cu6vWHRm6IlLZR+CUD9hpE5BZrK5ZvUQzpm14R8NxyTNbm85kQwpO8zAhSMjg==",
+  "success": true,
+  "projectFilePath": "/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/SIR.Comun.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergioguerrero/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/sergioguerrero/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/sergioguerrero/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/sergioguerrero/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/sergioguerrero/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/sergioguerrero/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/sergioguerrero/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/sergioguerrero/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/sergioguerrero/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/sergioguerrero/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+-----------------------------------------------------------
+Tipo: Error
+Hora: 05/16/2021 22:02:33
+Source: SIR.Datos.Concretos.CargaArchivoDatos
+Data: reporte:{"Id":0,"Descripcion":"string","Valor":0}
+Error: Keyword not supported: 'data sourcesir'.
+StackTrace:    at System.Data.Common.DbConnectionOptions.ParseInternal(Dictionary`2 parsetable, String connectionString, Boolean buildChain, Dictionary`2 synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Dictionary`2 synonyms)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at System.Data.SqlClient.SqlConnection..ctor(String connectionString)
+   at SIR.Datos.Fabrica.Conexion.CrearConexion(EnumBaseDatos _baseDatos, EnumBaseDatosOrigen _origen) in /Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/Fabrica/Conexion.cs:line 19
+   at SIR.Datos.Abstractos.Dal_Base.ObtenerConexionPrincipal() in /Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/Abstractos/Dal_Base.cs:line 19
+   at SIR.Datos.Concretos.CargaArchivoDatos.CargaArchivoDatos.InsertarArchivo(MOD_Carga_Archivo mOD_Carga_Archivo) in /Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/Concretos/CargaArchivoDatos/CargaArchivoDatos.cs:line 20
+Inner exceptions: 
+-----------------------------------------------------------

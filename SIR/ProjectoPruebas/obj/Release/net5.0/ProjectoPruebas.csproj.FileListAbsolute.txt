@@ -1,0 +1,5 @@
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/ProjectoPruebas/obj/Release/net5.0/ProjectoPruebas.csprojAssemblyReference.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/ProjectoPruebas/obj/Release/net5.0/ProjectoPruebas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/ProjectoPruebas/obj/Release/net5.0/ProjectoPruebas.AssemblyInfoInputs.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/ProjectoPruebas/obj/Release/net5.0/ProjectoPruebas.AssemblyInfo.cs
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/ProjectoPruebas/obj/Release/net5.0/ProjectoPruebas.csproj.CoreCompileInputs.cache

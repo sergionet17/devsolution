@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{DFFA223B-5F09-42B3-868C-7D91178C2CC2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SIR.Autenticacion.Api/Controllers/SirCargaArchivosController.cs">
+    <Files>
+      <File FileName="SIR.Autenticacion.Api/Controllers/Parametrizacion_SIR/Cliente_ExcluidoController.cs" Line="38" Column="10" />
+      <File FileName="SIR.Autenticacion.Api/Controllers/SirCargaArchivosController.cs" Line="19" Column="56" />
+      <File FileName="SIR.Negocio/Interfaces/Parametrizacion_SIR/ICliente_ExcluidoNegocio.cs" />
+      <File FileName="SIR.Negocio/Fabrica/FabricaNegocio.cs" />
+      <File FileName="SIR.Negocio/Concretos/Parametrizacion_SIR/Cliente_ExcluidoNegocio.cs" />
+      <File FileName="SIR.Negocio/Interfaces/CargaArchivo_SIR/IArchivoCarga_SIR.cs" />
+      <File FileName="SIR.Comun/Entidades/Parametrizacion_SIR/MOD_Cliente_Excluido.cs" />
+      <File FileName="SIR.Comun/Entidades/CargaArchivos_SIR/MOD_Carga_Archivo.cs" />
+      <File FileName="SIR.Negocio/Concretos/CargaArchivos_SIR/CargaInformacionArchivo.cs" />
+      <File FileName="SIR.Datos/Fabrica/FabricaDatos.cs" />
+      <File FileName="SIR.Datos/Interfaces/Parametrizacion_SIR/ICliente_ExcluidoDatos.cs" />
+      <File FileName="SIR.Datos/Concretos/Parametrizacion_SIR/Cliente_ExcluidoDatos.cs" />
+      <File FileName="SIR.Datos/Concretos/CargaArchivoDatos/CargaArchivoDatos.cs" />
+      <File FileName="SIR.Datos/Abstractos/Dal_Base.cs" />
+      <File FileName="SIR.Comun/Enumeradores/EnumSession.cs" />
+      <File FileName="SIR.Autenticacion.Api/Program.cs" />
+      <File FileName="../../../../../../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets" Line="3095" Column="5" />
+      <File FileName="SIR.Autenticacion.Api/appsettings.Development.json" />
+      <File FileName="ProjectoPruebas/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SIR" expanded="True">
+            <Node name="Apis" expanded="True">
+              <Node name="SIR.Autenticacion.Api" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="SirCargaArchivosController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Comun" expanded="True">
+              <Node name="SIR.Comun" expanded="True">
+                <Node name="Entidades" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Apis.SIR.Autenticacion.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Autenticacion.Api/Controllers/SirCargaArchivosController.cs" relfile="SIR.Autenticacion.Api/Controllers/SirCargaArchivosController.cs" line="18" column="1" />
+      <Breakpoint file="/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/Concretos/CargaArchivos_SIR/CargaInformacionArchivo.cs" relfile="SIR.Negocio/Concretos/CargaArchivos_SIR/CargaInformacionArchivo.cs" line="13" column="1" />
+      <Breakpoint file="/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/Concretos/CargaArchivoDatos/CargaArchivoDatos.cs" relfile="SIR.Datos/Concretos/CargaArchivoDatos/CargaArchivoDatos.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

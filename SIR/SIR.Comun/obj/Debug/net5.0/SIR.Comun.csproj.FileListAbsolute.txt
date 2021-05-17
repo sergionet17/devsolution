@@ -1,0 +1,12 @@
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/bin/Debug/net5.0/SIR.Comun.deps.json
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/bin/Debug/net5.0/SIR.Comun.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/bin/Debug/net5.0/ref/SIR.Comun.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/bin/Debug/net5.0/SIR.Comun.pdb
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/obj/Debug/net5.0/SIR.Comun.csprojAssemblyReference.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/obj/Debug/net5.0/SIR.Comun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/obj/Debug/net5.0/SIR.Comun.AssemblyInfoInputs.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/obj/Debug/net5.0/SIR.Comun.AssemblyInfo.cs
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/obj/Debug/net5.0/SIR.Comun.csproj.CoreCompileInputs.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/obj/Debug/net5.0/SIR.Comun.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/obj/Debug/net5.0/ref/SIR.Comun.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Comun/obj/Debug/net5.0/SIR.Comun.pdb

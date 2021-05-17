@@ -1,0 +1,15 @@
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/bin/Release/net5.0/SIR.Datos.deps.json
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/bin/Release/net5.0/SIR.Datos.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/bin/Release/net5.0/ref/SIR.Datos.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/bin/Release/net5.0/SIR.Datos.pdb
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/bin/Release/net5.0/SIR.Comun.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/bin/Release/net5.0/SIR.Comun.pdb
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/obj/Release/net5.0/SIR.Datos.csprojAssemblyReference.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/obj/Release/net5.0/SIR.Datos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/obj/Release/net5.0/SIR.Datos.AssemblyInfoInputs.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/obj/Release/net5.0/SIR.Datos.AssemblyInfo.cs
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/obj/Release/net5.0/SIR.Datos.csproj.CoreCompileInputs.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/obj/Release/net5.0/SIR.Datos.csproj.CopyComplete
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/obj/Release/net5.0/SIR.Datos.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/obj/Release/net5.0/ref/SIR.Datos.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Datos/obj/Release/net5.0/SIR.Datos.pdb

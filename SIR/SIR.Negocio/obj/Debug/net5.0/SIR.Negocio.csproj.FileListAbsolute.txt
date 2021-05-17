@@ -1,0 +1,17 @@
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/bin/Debug/net5.0/SIR.Negocio.deps.json
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/bin/Debug/net5.0/SIR.Negocio.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/bin/Debug/net5.0/ref/SIR.Negocio.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/bin/Debug/net5.0/SIR.Negocio.pdb
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/bin/Debug/net5.0/SIR.Comun.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/bin/Debug/net5.0/SIR.Datos.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/bin/Debug/net5.0/SIR.Comun.pdb
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/bin/Debug/net5.0/SIR.Datos.pdb
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/obj/Debug/net5.0/SIR.Negocio.csprojAssemblyReference.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/obj/Debug/net5.0/SIR.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/obj/Debug/net5.0/SIR.Negocio.AssemblyInfoInputs.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/obj/Debug/net5.0/SIR.Negocio.AssemblyInfo.cs
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/obj/Debug/net5.0/SIR.Negocio.csproj.CoreCompileInputs.cache
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/obj/Debug/net5.0/SIR.Negocio.csproj.CopyComplete
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/obj/Debug/net5.0/SIR.Negocio.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/obj/Debug/net5.0/ref/SIR.Negocio.dll
+/Users/sergioguerrero/Documents/DEVHOUSE/firstProyect/FRONTEND/GIT_FRONT_VSP/SIRBackend/SIR/SIR.Negocio/obj/Debug/net5.0/SIR.Negocio.pdb
